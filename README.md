@@ -38,4 +38,5 @@ plocicu.
 ### Autor:
 Tamara Garibovic
 
-#### Napomena: Projekat radjen 2017. godine.
+#### Napomena: 
+Projekat radjen 2017. godine.
